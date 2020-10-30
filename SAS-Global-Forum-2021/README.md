@@ -15,7 +15,7 @@ There are a number of different opportunities to get involved with SAS Global Fo
 
 * <a href="SS VIRTUAL JUDGE.pdf">Student Symposium Virtual Second Round Judge</a> – Judge for the SAS Global Forum Student Symposium.
 
-* <a href="VIRTUAL COORDINATOR.pdf">Submission Reviewer</a> – Individual that helps to ensure the virtual presenters and authors have everything they need to provide high quality presentations.
+* <a href="VIRTUAL COORDINATOR.pdf">Virtual Coordinator</a> – Individual that helps to ensure the virtual presenters and authors have everything they need to provide high quality presentations.
 
 * <a href="ROOM FACILITATOR.pdf">Room Facilitator</a> – Individual that assists with the management of all papers/presentations assigned to a specific “room” and ensure that the presenters and authors have everything they need to provide high quality presentations and papers.
 
