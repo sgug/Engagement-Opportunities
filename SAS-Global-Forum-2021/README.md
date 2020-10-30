@@ -1,5 +1,5 @@
 <p align="center">
-   <img src = "SGF2021 Banner.png"> </img>
+   <img src = "SGF2021 Banner.png" width = 900px> </img>
    <h1 align = "center"> SAS Global Forum needs you!</h1>
 </p>
 
