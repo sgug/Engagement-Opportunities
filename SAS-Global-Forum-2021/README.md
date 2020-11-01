@@ -23,6 +23,6 @@ There are a number of different opportunities to get involved with SAS Global Fo
 
 Be sure to read the full role description associated with each opportunity to determine which are the best fit for you.  Once you have decided on what area(s) you would like to help with complete the following form.
 
-[SAS Global Forum Engagement Opportunities](https://forms.office.com/Pages/ResponsePage.aspx?id=O76qd3-jIEeUGAws_niopO4WPHsLsk9Klnc_rPTLcLBUNFdCRVNIUUNEUVdGWFdPOElaT1BCVk9CTi4u)
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=O76qd3-jIEeUGAws_niopO4WPHsLsk9Klnc_rPTLcLBUNFdCRVNIUUNEUVdGWFdPOElaT1BCVk9CTi4u" target="_blank">SAS Global Forum Engagement Opportunities</a>
 
 If you have any questions, you can contact the Engagement Coordinators at sasgfvolunteers@sasgug.com. 
