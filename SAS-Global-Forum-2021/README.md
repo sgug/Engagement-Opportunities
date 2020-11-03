@@ -17,9 +17,9 @@ There are a number of different opportunities to get involved with SAS Global Fo
 
 * <a href="VIRTUAL COORDINATOR.pdf">Virtual Coordinator</a> – Individual that helps to ensure the virtual presenters and authors have everything they need to provide high quality presentations.
 
-* <a href="ROOM FACILITATOR.pdf">Room Facilitator</a> – Individual that assists with the management of all papers/presentations assigned to a specific “room” and ensure that the presenters and authors have everything they need to provide high quality presentations and papers.
+* <a href="VIRTUAL FACILITATOR.pdf">Virtual Facilitator</a> – Individual that assists with the management of all required documents for all authors assigned to the virtual facilitator and ensure that the authors have everything they need to provide high quality papers and, if applicable, presentations.
 
-* <a href="SOCIAL MEDIA COORDINATOR.pdf">Social Media Coordinator</a> – TBD
+* <a href="SOCIAL MEDIA VOLUNTEER.pdf">Social Media Volunteer</a> – Individual that helps in advertising the conference and specific events and helps promote SAS Global Forum by making the public aware of crucial information over social media channels.
 
 Be sure to read the full role description associated with each opportunity to determine which are the best fit for you.  Once you have decided on what area(s) you would like to help with complete the following form.
 
