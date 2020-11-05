@@ -9,17 +9,17 @@ There are a number of different opportunities to get involved with SAS Global Fo
 
 * <a href="Role-Descriptions\SUBMISSION REVIEWER.pdf">Submission Reviewer</a> – Experts in the SAS community who work with the Content Advisory Team (CAT) Leads to determine which submissions should be accepted for SAS Global Forum.
 
-* <a href="VIRTUAL PRESENTER MENTOR.pdf">Virtual Presenter Mentor</a> – Individuals who are available to assist and encourage new presenters to submit papers and help them prepare their content, as well as help to improve the overall conference experience.
+* <a href="Role-Descriptions\VIRTUAL PRESENTER MENTOR.pdf">Virtual Presenter Mentor</a> – Individuals who are available to assist and encourage new presenters to submit papers and help them prepare their content, as well as help to improve the overall conference experience.
 
-* <a href="SS 1st ROUND JUDGE.pdf">Student Symposium First Round Judge</a> – Reviewer for the SAS Global Forum Student Symposium competition, which allows student teams to showcase their skills.
+* <a href="Role-Descriptions\SS 1st ROUND JUDGE.pdf">Student Symposium First Round Judge</a> – Reviewer for the SAS Global Forum Student Symposium competition, which allows student teams to showcase their skills.
 
-* <a href="SS VIRTUAL JUDGE.pdf">Student Symposium Virtual Second Round Judge</a> – Judge for the SAS Global Forum Student Symposium.
+* <a href="Role-Descriptions\SS VIRTUAL JUDGE.pdf">Student Symposium Virtual Second Round Judge</a> – Judge for the SAS Global Forum Student Symposium.
 
-* <a href="VIRTUAL COORDINATOR.pdf">Virtual Coordinator</a> – Individual that helps to ensure the virtual presenters and authors have everything they need to provide high quality presentations.
+* <a href="Role-Descriptions\VIRTUAL COORDINATOR.pdf">Virtual Coordinator</a> – Individual that helps to ensure the virtual presenters and authors have everything they need to provide high quality presentations.
 
-* <a href="VIRTUAL FACILITATOR.pdf">Virtual Facilitator</a> – Individual that assists with the management of all required documents for all authors assigned to the virtual facilitator and ensure that the authors have everything they need to provide high quality papers and, if applicable, presentations.
+* <a href="Role-Descriptions\VIRTUAL FACILITATOR.pdf">Virtual Facilitator</a> – Individual that assists with the management of all required documents for all authors assigned to the virtual facilitator and ensure that the authors have everything they need to provide high quality papers and, if applicable, presentations.
 
-* <a href="SOCIAL MEDIA VOLUNTEER.pdf">Social Media Volunteer</a> – Individual that helps in advertising the conference and specific events and helps promote SAS Global Forum by making the public aware of crucial information over social media channels.
+* <a href="Role-Descriptions\SOCIAL MEDIA VOLUNTEER.pdf">Social Media Volunteer</a> – Individual that helps in advertising the conference and specific events and helps promote SAS Global Forum by making the public aware of crucial information over social media channels.
 
 Be sure to read the full role description associated with each opportunity to determine which are the best fit for you.  Once you have decided on what area(s) you would like to help with complete the following form.
 
