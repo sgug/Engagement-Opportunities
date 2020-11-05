@@ -7,7 +7,7 @@ Each year, over 5,000 SAS customers, users, and executives gather to learn and e
 
 There are a number of different opportunities to get involved with SAS Global Forum 2021. The opportunities available are:
 
-* <a href="SUBMISSION REVIEWER.pdf">Submission Reviewer</a> – Experts in the SAS community who work with the Content Advisory Team (CAT) Leads to determine which submissions should be accepted for SAS Global Forum.
+* <a href="Role-Descriptions\SUBMISSION REVIEWER.pdf">Submission Reviewer</a> – Experts in the SAS community who work with the Content Advisory Team (CAT) Leads to determine which submissions should be accepted for SAS Global Forum.
 
 * <a href="VIRTUAL PRESENTER MENTOR.pdf">Virtual Presenter Mentor</a> – Individuals who are available to assist and encourage new presenters to submit papers and help them prepare their content, as well as help to improve the overall conference experience.
 
