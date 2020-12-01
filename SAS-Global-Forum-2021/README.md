@@ -25,4 +25,6 @@ Be sure to read the full role description associated with each opportunity to de
 
 <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=O76qd3-jIEeUGAws_niopO4WPHsLsk9Klnc_rPTLcLBUNFdCRVNIUUNEUVdGWFdPOElaT1BCVk9CTi4u" target="_blank">SAS Global Forum Engagement Opportunities</a>
 
+If you are unable to complete the form online, you may download the <a href="Role-Descriptions\Engagement Survey - Final - For PDF">fillable PDF Engagement Form</a> and complete the PDF version and e-mail to the Engagement Coordinators at sasgfvolunteers@sasgug.com. It is not required to complete the fillable PDF form and the online form. Please complete one or the other, with the preference being to complete the online form. 
+
 If you have any questions, you can contact the Engagement Coordinators at sasgfvolunteers@sasgug.com. 
