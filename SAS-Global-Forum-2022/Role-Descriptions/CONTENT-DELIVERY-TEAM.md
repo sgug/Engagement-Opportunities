@@ -41,7 +41,7 @@ The time commitment varies according to the different roles. On average, it is e
 ## Content Delivery Team Application Process 
 
 * Application Timing: **Applications close 18APR21**
-* Complete the [Content Delivery Team Lead Application](../Application-Forms/SASGF2022_CDT_Application_final.docx) distributed in Dec* Jan of the year  prior to conference year
+* Complete the [Content Delivery Team Lead Application](https://github.com/sgug/Engagement-Opportunities/raw/main/SAS-Global-Forum-2022/Application-Forms/SASGF2022_CDT_Application_final.docx) distributed in Dec* Jan of the year  prior to conference year
 * Prepare a résumé or CV that summarizes your:
 * Education
   * Employment roles and responsibilities

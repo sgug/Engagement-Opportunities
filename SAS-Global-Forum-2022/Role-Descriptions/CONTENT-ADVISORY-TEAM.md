@@ -35,7 +35,7 @@ It is expected that Team Members will likely spend, **on average**, 3-6 hours a 
 ## Content Advisory Team Application Process 
 
 - Application Timing: **Applications close 18APR21**
-- Complete the [Content Advisory Team Application](../Application-Forms/SASGF2022_CAT_Application_final.docx) 
+- Complete the [Content Advisory Team Application](https://github.com/sgug/Engagement-Opportunities/raw/main/SAS-Global-Forum-2022/Application-Forms/SASGF2022_CAT_Application_final.docx) 
 - Prepare a résumé or CV that summarizes:
   - Education
   - Employment roles and responsibilities
