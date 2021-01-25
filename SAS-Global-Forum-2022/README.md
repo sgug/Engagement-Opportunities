@@ -9,8 +9,8 @@ There are a number of different opportunities to get involved with SAS Global Fo
 
 ### Leadership roles
 
-* [Content Advisory Team](./Role-Descriptions/CONTENT-ADVISORY-TEAM.md) - As a member of the SAS Global Forum Content Advisory Team you'll curate and select the SAS Global Forum 2022 users program content.
-* [Content Delivery Team](./Role-Descriptions/CONTENT-DELIVERY-TEAM.md) - As a member of the SAS Global Forum Content Delivery Team you'll ensure the successful delivery of the SAS Global Forum 2022 users program content.
+* [Content Advisory Team](./Role-Descriptions/CONTENT-ADVISORY-TEAM.md#content-advisory-team) - As a member of the SAS Global Forum Content Advisory Team you'll curate and select the SAS Global Forum 2022 users program content.
+* [Content Delivery Team](./Role-Descriptions/CONTENT-DELIVERY-TEAM.md#content-delivery-team) - As a member of the SAS Global Forum Content Delivery Team you'll ensure the successful delivery of the SAS Global Forum 2022 users program content.
 
 If you are interested in applying to be a part of the 2022 SAS Global Forum leadership team, please complete one (or both) of the attached application forms (attached) and submit your application via email to cjb.blake@gmail.com by April 18, 2021.  Please note: there are two different team member roles so please choose the application most appropriate to your interests and expertise. You may apply for both teams, but please let me know your preference if you do. 
 
