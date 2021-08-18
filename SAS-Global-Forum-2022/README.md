@@ -16,6 +16,8 @@ If you are interested in applying to be a part of the 2022 SAS Global Forum lead
 
 ### Additional roles
 
-There are going to be lots of different ways that you can get involved with SAS Global Forum 2022. As and when the format of the conference takes shape, more roles will be advertised and shared here.
+There are going to be lots of different ways that you can get involved with SAS Global Forum 2022. As and when the format of the conference takes shape, more roles will be advertised and shared here. To register your interest for SAS Global Forum 2022 opportunities, please complete the form below:
+
+<a href="https://forms.office.com/r/mEKUpkk9fX" target="_blank">SAS Global Forum Engagement Opportunities 2022</a>
 
 If you have any questions you can email the <a href="mailto:sasgfvolunteers@sasgug.com?subject=I want to get involved with SGF2022">Engagement Coordinators</a> or the Conference Chair, <a href="mailto:cjb.blake@gmail.com?subject=I want to get involved with SGF2022">Chris Blake</a>. 
